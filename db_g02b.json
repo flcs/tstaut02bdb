@@ -24,10 +24,7 @@
 		{ "id": 1, "estoque": 1, "produto": 1, "endereco": "AR01D02P3A4", "saldo": 100, "disponivel": 90 },
 		{ "id": 2, "estoque": 2, "produto": 3, "endereco": "AR01D02P3A4", "saldo": 100, "disponivel": 90 },
 		{ "id": 3, "estoque": 3, "produto": 2, "endereco": "AR01D02P3A4", "saldo": 100, "disponivel": 90 }
-	],
-	"profile": {
-	    "name": "typicode"
-	}
+	]
 }
 
 
